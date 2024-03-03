@@ -5,3 +5,5 @@ for i in range(5):
 
 for k in range(10):
     print(k)
+
+print("Life is beautiful")
